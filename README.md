@@ -4,7 +4,6 @@
 p/s : mỗi folder mình để đè bài và code, trên yt mk cx trình bày bài giảng này , bạn đọc có thể chỉ việc cop và chạy . nhưng mình khuyến khích bạn tự code lại để hiểu rõ hơn . nếu thấy hay thì bấn star trên github ủng hộ mình nhé . iuuuu
 
 p/s2: contact mình qua:
-
 fb: https://www.facebook.com/huyinit13
 
 youtube bài giảng :https://www.youtube.com/channel/UCgktVJ2PAuA3zHSR1A-K20w
