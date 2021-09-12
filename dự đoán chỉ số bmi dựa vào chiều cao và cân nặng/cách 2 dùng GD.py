@@ -1,6 +1,6 @@
 #Cách 2 :sử dụng Gradient descent:
 #khai báo thư viện numpy, matp, sklearn và future cho py2 và py3
-from _future_ import division, print_function, unicode_literals
+#from _future_ import division, print_function, unicode_literals
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn import datasets, linear_model
