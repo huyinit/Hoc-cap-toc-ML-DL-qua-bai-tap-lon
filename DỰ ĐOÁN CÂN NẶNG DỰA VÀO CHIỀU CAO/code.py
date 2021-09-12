@@ -1,3 +1,5 @@
+#2 cách : 1 cách bằng công thức , 1 cách bằng thư viện
+
 # hỗ trợ cho cả python phiên bản 2 và 3
 from _future_ import division, print_function, unicode_literals
 import numpy as np # khai báo numpy
