@@ -1,0 +1,10 @@
+giới thiệu : Cơ sở dữ liệu MNIST (tiếng Anh: MNIST database, viết tắt từ Modified National Institute of Standards and Technology database[1]) là một cơ sở dữ liệu lớn chứa các chữ số viết tay thường được dùng trong việc huấn luyện các hệ thống xử lý hình ảnh khác nhau.[2][3] Cơ sở dữ liệu này cũng được sử dụng rộng rãi để huấn luyện và kiểm thử trong lĩnh vực học máy.
+ĐỀ bài : có tập train và tập test . đào tạo tập train sau đó dự đoán tập test xem dự đoán số từ 0-9 của tập test đúng bao nhiêu %.
+
+note 1:Chạy bằng Google collab trên Drive :
+phải gõ :
+from google.colab import drive
+drive.mount('/content/drive')
+=>mới bắt đầu chạy được . 
+
+note2 : tập mnist có sẵn ở gg drive ta lấy link rồi dùng luôn tập đó
