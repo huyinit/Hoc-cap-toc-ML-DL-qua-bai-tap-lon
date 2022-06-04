@@ -1,0 +1,11 @@
+pip==21.0.1
+fastapi
+pydantic[dotenv]
+uvicorn[standard]
+python-dotenv
+numpy
+tensorflow
+keras
+opencv-python
+Pillow
+pandas

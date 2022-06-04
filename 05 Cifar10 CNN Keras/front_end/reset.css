@@ -1,0 +1,89 @@
+@import url('https://fonts.google.com/share?selection.family=Dongle');
+
+html, body {
+	width: 100%;
+	height: 100%;
+	font-family: 'Gamja Flower';
+	font-size: 28px;
+	color: #222;
+}
+.navbar {
+	background-color: rgba(82,64,120,0.9) !important;
+}
+.navbar li a {
+    color: white !important;
+}
+.navbar li a:hover {
+    color: black !important;
+}
+.carousel-inner img {
+	width: 100%;
+}
+.btn-primary {
+	background-color: rgb(82,64,120);
+	border: 1px solid white;
+}
+.btn-primary:hover {
+	background-color: rgb(62,44,100);
+	border: 1px solid white;
+}
+.jumbotron {
+	padding: 1rem;
+	border-radius: 0;
+}
+.welcome hr {
+	border-top: 2px solid rgba(62,44,100, 0.6);
+	width: 95%;	
+	margin-bottom: 2rem;
+}
+.hr{
+	border-top: 2px solid rgba(62,44,100, 0.6);
+	width: 95%;	
+	margin-bottom: 2rem;
+}
+.col-auto{
+	margin-left: 75px;
+	margin-top: 30px;
+}
+@media (max-width: 992px){
+	.carousel-caption {
+		top: 20%;
+	}
+	.carousel-caption h1{
+		font-size: 250%;
+	}
+	.carousel-caption h3{		
+		font-size: 160%;		
+	}
+	.carousel-caption .btn{		
+		font-size: 120%;		
+	}
+}
+@media (max-width: 768px){	
+	.carousel-caption {
+		top: 20%;
+	}
+	.carousel-caption h1{
+		font-size: 220%;
+	}
+	.carousel-caption h3{		
+		font-size: 140%;
+		padding-bottom: 0.2rem;
+	}
+	.carousel-caption .btn{		
+		font-size: 95%;
+		padding: 8px 14px;
+	}
+}
+footer {
+	background-color: #3f3f3f;
+	color: #d5d5d5;
+}
+hr.light {
+	border-top: 1px solid #d5d5d5;
+	width: 75%;
+}
+.light-100 {
+	border-top: 1px solid #d5d5d5;
+	width: 100%;
+}
